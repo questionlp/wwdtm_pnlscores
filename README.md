@@ -1,8 +1,8 @@
-# wwdtm_winstreaks
+# wwdtm_pnlscores
 
 ## Overview
 
-This Python script that generates a report for panelist win streaks using data
+This Python script that generates reports based on all of the panelist scores
 from the [Wait Wait... Don't Tell Me! Stats Page](http://wwdt.me) database.
 
 ## Requirements
